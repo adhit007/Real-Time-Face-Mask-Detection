@@ -6,3 +6,4 @@ Instal Library Python
 3. imutils
 4. cv2
 
+running File main.py
