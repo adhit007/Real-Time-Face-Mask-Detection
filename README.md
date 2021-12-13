@@ -6,4 +6,7 @@ Instal Library Python
 3. imutils
 4. cv2
 
-running File main.py
+running File on Command promt (CMD)
+
+cd Real-Time-Face-Mask-Detection
+py main.py
