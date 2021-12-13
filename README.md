@@ -8,7 +8,5 @@ Instal Library Python
 
 running File on Command promt (CMD)
 
-cd Real-Time-Face-Mask-Detection
-||
-||
-py main.py
+1. cd Real-Time-Face-Mask-Detection
+2. py main.py
